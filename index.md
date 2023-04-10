@@ -14,6 +14,7 @@ This site was built using [Github Pages](https://github.com/SouKangC-school/CSE-
 
 # Introduction
 ![UCSD logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/800px-University_of_California%2C_San_Diego_seal.svg.png)
+
 My name Jinshi He, a second major **Computer Engineering** student who loves programming and watching live stream. I love one of the quote from Linus Trovolds, the inventor of the Linux operating system:
 
 > "Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”
